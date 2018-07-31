@@ -20,7 +20,7 @@ function addElementToEndOfArray(array, element){
   return [array, ...element];
 }
 function destructivelyAddElementToEndOfArray(array, element){
-  return array.push(element);
+  return array.push([1]);
 }
 function accessElementInArray(array,index){
   return array[2];
