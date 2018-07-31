@@ -12,7 +12,7 @@ const cats = ["Milo" , "Garfield"];
 const moreCats = ["Felix" , ...cats];*/
 function addElementToBeginningOfArray (array, element){
   array = [1, 2, 3];
-  element = "1";
+  element = 1;
   array.unshift("foo");
 }
 function destructivelyAddElementToBeginningOfArray (array, element) {
