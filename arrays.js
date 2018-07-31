@@ -9,10 +9,10 @@ var chocolateBars = ["snickers", "hundred grand", "kitkat", "skittles"];
 //["philadelphia". ...cities];
 /*cities = ["Philadelphia", ...cities];
 const cats = ["Milo" , "Garfield"];
-const moreCats = ["Felix" , ...cats];
-function addElementToBeginningOfArray (){
+const moreCats = ["Felix" , ...cats];*/
+function addElementToBeginningOfArray (array, element){
   
 }
-function destructivelyAddElementToBeginningOfArray () {
+//function destructivelyAddElementToBeginningOfArray () {
   
-}*/
+}
